@@ -1,0 +1,14 @@
+# Python build directories
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Environment files
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
