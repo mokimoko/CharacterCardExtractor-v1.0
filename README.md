@@ -18,14 +18,14 @@ I love using LLMs for brainstorming character ideas, but the full JSON files are
 I looked for a program like this and couldn't find one, so here we are.
 
 ## How to use it
-1. Download and run the program (use the .exe)
+1. Download and run the program (the .zip is under Releases, use the .exe)
 2. Click "Import" and choose what you want to import (Character Card, Multiple Cards, or Lorebook)
 3. Select which parts of the card/book you want to extract
 4. Click "Extract Fields" to see everything in a nice, readable format
 5. Save it as a text file or PDF!
 
 ## Is it safe? 🔒
-I made this myself with the help of Claude, and trust me when I say I'm not smart enough to know how to make a virus. The source code is in the folder so you can look at it yourself though.
+I made this myself with the help of Claude, and trust me when I say I'm not smart enough to know how to make a virus. The source code is in the main/Source folder so you can look at it yourself though.
 
 ## Important note
 This isn't meant to replace your character cards or lorebooks - it's just a tool to make them more readable and usable outside of roleplay-specific programs. The text files this creates are for reading and sharing with LLMs, not for importing back into roleplay programs.
