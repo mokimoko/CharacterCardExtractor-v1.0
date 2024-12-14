@@ -27,8 +27,9 @@ I looked for a program like this and couldn't find one, so here we are.
 ## Is it safe? 🔒
 I made this myself with the help of Claude, and trust me when I say I'm not smart enough to know how to make a virus. The source code is in the main/Source folder so you can look at it yourself though.
 
-## Important note
-This isn't meant to replace your character cards or lorebooks - it's just a tool to make them more readable and usable outside of roleplay-specific programs. The text files this creates are for reading and sharing with LLMs, not for importing back into roleplay programs.
+## Important notes
+- This isn't meant to replace your character cards or lorebooks - it's just a tool to make them more readable and usable outside of roleplay-specific programs. The text files this creates are for reading and sharing with LLMs, not for importing back into roleplay programs.
+- It works with character cards and lorebooks made in SillyTavern; I also tested it with some cards/lorebooks I downloaded from venus.chub, and most of them worked, though sometimes the formatting was off, or certain fields weren't picked up. So I doubt it will work with EVERY file, but it works a good portion of the time.
 
 ## Questions or suggestions?
 Feel free to open an issue if you have any problems or ideas for making it better! Just remember I'm not a programmer, so while I'll do my best to help, I probably won't be able to add super complex features.
