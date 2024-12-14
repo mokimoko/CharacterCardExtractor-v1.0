@@ -1,5 +1,4 @@
 # Character Card & Lorebook Extractor
-I made this program because I love using character cards and lorebooks, but sometimes I want to do more with them than just use them in roleplay programs. I'm not a professional programmer - this started as a fun project for my own use, but I thought others might find it helpful too!
 
 ## What does it do?
 This program takes your character cards and lorebooks (just .json files for now) and turns them into easy-to-read text files. You can:
@@ -15,7 +14,6 @@ I love using LLMs for brainstorming character ideas, but the full JSON files are
 - Creating alternate greeting messages
 - Expanding character backgrounds
 - Getting feedback on character personalities
-I looked for a program like this and couldn't find one, so here we are.
 
 ## How to use it
 1. Download and run the program (the .zip is under Releases, use the .exe)
@@ -25,7 +23,7 @@ I looked for a program like this and couldn't find one, so here we are.
 5. Save it as a text file or PDF!
 
 ## Is it safe? 🔒
-I made this myself with the help of Claude, and trust me when I say I'm not smart enough to know how to make a virus. The source code is in the main/Source folder so you can look at it yourself though.
+I made this myself with the help of Claude, and trust me when I say I'm not smart enough to know how to make a virus. The source code is in the main/Source folder so you can look at it yourself.
 
 ## Important notes
 - This isn't meant to replace your character cards or lorebooks - it's just a tool to make them more readable and usable outside of roleplay-specific programs. The text files this creates are for reading and sharing with LLMs, not for importing back into roleplay programs.
